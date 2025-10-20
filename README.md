@@ -1,62 +1,55 @@
-<h1 align="left">Hi! I am İsmail Kağan.</h1>
+# 👋 Hi! I’m İsmail Kağan  
 
-  * Creating bugs since 2019<br>
-  * Software Engineering Major at Atılım University<br>
-  * I am realy into Linux and open source apps.
-  * I use Arch/Hyprland (btw :D)
-  * Check out my [Website!](https://ikaganacar.com/)
-  
-###
+- AI researcher and builder passionate about deep learning and open-source innovation  
+- Software Engineering major at Atılım University  
+- Long-time Linux user (Arch + Hyprland, btw )  
+- Explore my useless website: [ikaganacar.com](https://ikaganacar.com)
 
-<h2 align="left">My Skills</h2>
+---
 
-###
-         
-<table align="center">
-  <tr>
-    <th>Web Development</th>
-    <th>AI</th>
-    <th>Linux & Low-Level</th>
-  </tr>
-  <tr>
-    <td> 
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-      </div>
-    </td>
-    <td>
-      <div align="left">
-        <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-      </div>
-    </td>
-  </tr>
-</table>
+## 🤖 Artificial Intelligence & Machine Learning  
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikaganacar1&show_icons=true&theme=dark"/>
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" height="40" alt="AI stack icons" />  
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face logo" />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle logo" />  
 </div>
 
+- Building, fine-tuning, and deploying LLMs and computer vision models  
+- Exploring model compression and edge-AI deployment  
+- Interested in practical applications of transformer-based architectures  
+
+---
+
+## 🌐 Connect with Me  
+
+<div align="center">
+  <a href="https://huggingface.co/ikaganacar"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" /></a>
+  <a href="https://www.kaggle.com/ikaganacar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" /></a>
+  <a href="https://www.linkedin.com/in/ikaganacar/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
+</div>
+
+- **Hugging Face:** [@ikaganacar](https://huggingface.co/ikaganacar)  
+- **Kaggle:** [ikaganacar](https://www.kaggle.com/ikaganacar)  
+- **LinkedIn:** [in/ikaganacar](https://www.linkedin.com/in/ikaganacar/)  
+- **Website:** [ikaganacar.com](https://ikaganacar.com)  
+
+---
+
+###  Featured Work  
+- [aciklab/kubernetes-ai-GGUF](https://huggingface.co/aciklab/kubernetes-ai-GGUF) – fine-tuned LLM for AI-Ops and Kubernetes assistance  
+- Check out more on my [Hugging Face profile](https://huggingface.co/ikaganacar)
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=ikaganacar1&show_icons=true&theme=dark" alt="GitHub stats" />  
+</div>
+
+---
+
+> *Creating bugs since 2019 — now they help debug themselves.* 
