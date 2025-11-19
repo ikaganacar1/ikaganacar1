@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+        with:
+          token: ${{ secrets.GH_TOKEN }} 
+          
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 2
           feed_list: "https://medium.com/feed/@acarismailkagan"
-          gh_token: ${{ secrets.GH_TOKEN }}
+          gh_token: ${{ secrets.GH_TOKEN }} 
