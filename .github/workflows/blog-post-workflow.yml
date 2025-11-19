@@ -17,4 +17,5 @@ jobs:
         with:
           max_post_count: 2
           feed_list: "https://medium.com/feed/@acarismailkagan"
-          gh_token: ${{ secrets.GH_TOKEN }} 
+          gh_token: ${{ secrets.GH_TOKEN }}
+          template: "<tr><td><a href='$url'><img width='140px' src='$cover_image' /></a></td><td><a href='$url'><b>$title</b></a><br/><i>$date</i></td></tr>" 
