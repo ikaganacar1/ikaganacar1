@@ -18,7 +18,4 @@ jobs:
           max_post_count: 4
           feed_list: "https://medium.com/feed/@acarismailkagan"
           gh_token: ${{ secrets.GH_TOKEN }}
-          # 👇 1. Force the bot to scan the article text for images
-          extract_image_from_content: "true"
-          # 👇 2. Use '$image' instead of '$cover_image'
           template: "<tr><td><a href='$url'><img width='140px' src='$image' /></a></td><td><a href='$url'><b>$title</b></a><br/><i>$date</i></td></tr>"
