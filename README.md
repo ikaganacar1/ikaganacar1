@@ -47,6 +47,8 @@
 
 ### ✍️ Latest Writings
 <!-- BLOG-POST-LIST:START -->
+- [TOON Benchmarks: A Critical Analysis of Different Results](https://www.towardsdeeplearning.com/toon-benchmarks-a-critical-analysis-of-different-results-d2a74563adca?source=rss-ef40f04ba637------2)
+- [TOON: New data format for LLM Applications](https://www.towardsdeeplearning.com/toon-new-data-format-for-llm-applications-629670a344d2?source=rss-ef40f04ba637------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
