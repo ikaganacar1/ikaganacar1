@@ -46,6 +46,8 @@
 ---
 
 ### ✍️ Latest Writings
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ###  Featured Work
@@ -57,7 +59,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikaganacar1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikaganacar1&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaganacar1&layout=compact&theme=transparent&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 ---
