@@ -46,7 +46,7 @@
 ---
 
 ### ✍️ Latest Writings
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [![Read](https://img.shields.io/badge/Read-Medium-black?style=flat-square&logo=medium)](https://www.towardsdeeplearning.com/toon-benchmarks-a-critical-analysis-of-different-results-d2a74563adca?source=rss-ef40f04ba637------2) **TOON Benchmarks: A Critical Analysis of Different Results** (Nov 7, 2025)- [![Read](https://img.shields.io/badge/Read-Medium-black?style=flat-square&logo=medium)](https://www.towardsdeeplearning.com/toon-new-data-format-for-llm-applications-629670a344d2?source=rss-ef40f04ba637------2) **TOON: New data format for LLM Applications** (Nov 7, 2025)- [![Read](https://img.shields.io/badge/Read-Medium-black?style=flat-square&logo=medium)](https://medium.com/@acarismailkagan/fine-tuning-llm-with-unsloth-a-practical-guide-to-training-models-like-qwen3-8b-on-a-consumer-gpu-4116088a207c?source=rss-ef40f04ba637------2) **Fine-Tuning LLM with Unsloth: A Practical Guide to Training Models like Qwen3 8B on a Consumer GPU** (Sep 25, 2025)- [![Read](https://img.shields.io/badge/Read-Medium-black?style=flat-square&logo=medium)](https://medium.com/@acarismailkagan/anomaly-detection-with-holt-winters-simple-exponential-smoothing-in-python-c5b11537b0a9?source=rss-ef40f04ba637------2) **Anomaly Detection with Holt Winters Simple Exponential Smoothing in Python** (Jul 21, 2025)<!-- BLOG-POST-LIST:END -->
 ---
 
 ###  Featured Work
