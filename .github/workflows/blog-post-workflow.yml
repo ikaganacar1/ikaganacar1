@@ -18,6 +18,5 @@ jobs:
           max_post_count: 5
           feed_list: "https://medium.com/feed/@acarismailkagan"
           gh_token: ${{ secrets.GH_TOKEN }}
-          # 👇 This creates a list with a Badge + Title + Date
-          template: "- [![Read](https://img.shields.io/badge/Read-Medium-black?style=flat-square&logo=medium)]($url) **$title** ($date)"
+          template: "<li><a href='$url'><img src='https://img.shields.io/badge/Read-Medium-black?style=flat-square&logo=medium' alt='Read'></a> <a href='$url'><b>$title</b></a> ($date)</li>"
           date_format: "mmm d, yyyy"
