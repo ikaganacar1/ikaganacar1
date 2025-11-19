@@ -46,10 +46,7 @@
 ---
 
 ### ✍️ Latest Writings
-<!-- BLOG-POST-LIST:START --><table border="0">
-<tbody>
-</tbody>
-</table><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href='https://www.towardsdeeplearning.com/toon-benchmarks-a-critical-analysis-of-different-results-d2a74563adca?source=rss-ef40f04ba637------2'><img width='140px' src='$image' /></a></td><td><a href='https://www.towardsdeeplearning.com/toon-benchmarks-a-critical-analysis-of-different-results-d2a74563adca?source=rss-ef40f04ba637------2'><b>TOON Benchmarks: A Critical Analysis of Different Results</b></a><br/><i>Fri Nov 07 2025 10:03 AM</i></td></tr><tr><td><a href='https://www.towardsdeeplearning.com/toon-new-data-format-for-llm-applications-629670a344d2?source=rss-ef40f04ba637------2'><img width='140px' src='$image' /></a></td><td><a href='https://www.towardsdeeplearning.com/toon-new-data-format-for-llm-applications-629670a344d2?source=rss-ef40f04ba637------2'><b>TOON: New data format for LLM Applications</b></a><br/><i>Fri Nov 07 2025 6:20 AM</i></td></tr><tr><td><a href='https://medium.com/@acarismailkagan/fine-tuning-llm-with-unsloth-a-practical-guide-to-training-models-like-qwen3-8b-on-a-consumer-gpu-4116088a207c?source=rss-ef40f04ba637------2'><img width='140px' src='$image' /></a></td><td><a href='https://medium.com/@acarismailkagan/fine-tuning-llm-with-unsloth-a-practical-guide-to-training-models-like-qwen3-8b-on-a-consumer-gpu-4116088a207c?source=rss-ef40f04ba637------2'><b>Fine-Tuning LLM with Unsloth: A Practical Guide to Training Models like Qwen3 8B on a Consumer GPU</b></a><br/><i>Thu Sep 25 2025 12:21 PM</i></td></tr><tr><td><a href='https://medium.com/@acarismailkagan/anomaly-detection-with-holt-winters-simple-exponential-smoothing-in-python-c5b11537b0a9?source=rss-ef40f04ba637------2'><img width='140px' src='$image' /></a></td><td><a href='https://medium.com/@acarismailkagan/anomaly-detection-with-holt-winters-simple-exponential-smoothing-in-python-c5b11537b0a9?source=rss-ef40f04ba637------2'><b>Anomaly Detection with Holt Winters Simple Exponential Smoothing in Python</b></a><br/><i>Mon Jul 21 2025 12:13 PM</i></td></tr><!-- BLOG-POST-LIST:END -->
 ---
 
 ###  Featured Work
